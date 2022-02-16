@@ -31,7 +31,7 @@ This consists of 64 pieces of tools in the toolkit.
 - Soldering iron (60w)
 - Solder sucker
 - soldering stand
-# NB;where finance allows a soldering station and computer temperature controllers are possible
+ #### NB;where finance allows a soldering station and computer temperature controllers are possible
 
 
 
