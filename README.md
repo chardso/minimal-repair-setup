@@ -33,7 +33,7 @@ This consists of 64 pieces of tools in the toolkit.
 - soldering stand
 
 
-![tk](![IMG_20220215_234255_374](https://user-images.githubusercontent.com/71114711/154359980-f113f25c-c40f-420b-8dbf-d64fbf44a409.jpg)
+[](![IMG_20220215_234255_374](https://user-images.githubusercontent.com/71114711/154360300-d7285d2d-7eac-4c15-ad93-a66a3f099e4f.jpg)
 )
 
 
