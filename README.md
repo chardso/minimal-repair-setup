@@ -40,7 +40,8 @@ This consists of 64 pieces of tools in the toolkit.
 
 
 
-#### NB;where finance allows a soldering station and computer temperature controllers are possible
+
+###### NB;where finance allows a soldering station and computer temperature controllers are possible
 
 
 
